@@ -1,0 +1,144 @@
+seller:
+
+hasan@gmail.com   hasan@123
+kabir@gmail.com  kabir@124
+harun@gmail.com  harun@125
+sara@gmail.com   sara@126
+hasib@gmail.com  hasib@127
+
+admin@gmail.com  admin@001
+
+customer:
+
+hanif@gmail.com hanif@123
+abir@gmail.com abir@123
+dibbo@gmail.co  dibbo@123
+
+
+
+
+1.Laptop:
+    1.	Avita Magus Celeron N3350 12.2" FHD Laptop Charcoal Grey
+    2.	Avita Magus Celeron N3350 12.2" FHD Laptop Steel Blue
+    3.	Avita Magus Celeron N3350 12.2" FHD Laptop Seashell Pink
+    4.	AVITA Essential 14 Celeron N4020 14" Full HD Laptop Concrete Grey Color
+    5.	AVITA Essential 14 Celeron N4000 14" Full HD Laptop Matt Black Color
+    6.	Chuwi HeroBook Pro+ intel Celeron 13.3" 3K Laptop
+    7.	AVITA Essential 14 Celeron N4000 256GB SSD 14" Full HD Laptop Matt Black Color
+    8.	HP 15s-du1087TU Intel Celeron N4020 15.6 inch FHD Laptop with Win 10
+    9.	HP 15s-du1115TU Celeron N4020 15.6" HD Laptop
+    10.	AVITA Essential 14 Celeron N4020 256GB SSD 14" Full HD Laptop Matt White Color
+
+2.Desktop
+    1.Asus PN40 Celeron Dual Core Mini PC : 15000
+    2.ASRock DeskMini H470 Portable Mini PC
+    3. Star PC AMD Athlon 3000G
+    4. Flash Sale Pentium Gold G5420 8th Gen Special PC
+    5. Star PC 10th Gen Core i3 10100
+    6. Star PC Ryzen 3 3200G
+    7. Flash Sale Core i3 10th Gen Special PC
+    8. Gigabyte Brix GB-BACE-3160 Celeron Dual Core Mini PC
+    9. ASUS PN60 Intel Core i3 Mini PC
+
+
+3.Processor
+    1.	Intel 10th Gen Core i3 10100F Processor
+    2.	Intel 10th Gen Core i3 10100 Processor (Tray)
+    3.	Intel 10th Gen Core i3 10100 Processor
+    4.	Intel Core i3 10105F 10th Gen Processor
+    5.	Intel 10th Gen Core i9-10850K Processor
+    6.	Intel 9th Gen Core i5-9400 Processor
+    7.	AMD Ryzen 7 3700X Processor
+    8.	AMD Ryzen 5 3600 Processor
+    9.	Intel 9th Gen Core i3 9100F Processor
+    10.	AMD Ryzen 7 3800X Processor
+
+
+4.Graphics Card
+    2.	Colorful GeForce GT710-2GD3-V 2GB Graphics Card
+    3.	Gigabyte GT 710 2GB DDR3 Graphics Card
+    4.	Zotac GeForce GT 710 2GB DDR3 Graphics Card
+    5.	Palit GeForce GT 730 2GB DDR3 Graphics Card
+    6.	Colorful GeForce GT730K 2GD3-V 2GB Graphics Card
+    7.	Palit GeForce GT 1030 2GB DDR4 Graphics Card
+    8.	Colorful GeForce GT1030 V4-V 2GB Graphics Card
+    9.	ASUS GeForce GT 1030 2GB GDDR5 low Profile Graphics Card
+    10.	MSI GeForce GTX 1650 VENTUS XS 4G OC Graphics Card
+
+5.Headphone
+    1.	Corsair HS80 RGB Wireless Gaming Headphone
+    2.	Edifier G20 7.1 Surround Sound Wired Gaming Headset (Black)
+    3.	Edifier H690 On-Ear Wired Headphone Iron Gray
+    4.	Edifier W828NB Noise Canceling Wireless Headphones (Black)
+    5.	Havit H763D Gaming Headphone Black
+    6.	Joyroom JR-HG1 Dual Plug Wired Gaming Headset
+    7.	Lenovo HU85 Gaming Headphone
+    8.	Havit HV-H2002D Gaming Headphone
+    9.	Lenovo HU75 RGB Gaming Headphone
+    10.	FANTECH HQ52s TONE+ RGB Gaming Headphone
+
+
+6.Keyboard
+    1.	MeeTion MT-C500 4 in 1 Backlit Gaming Combo
+    2.	Meetion MT-K800 Colored Big Keys Kids Keyboard
+    3.	3.Logitech MK215 Wireless Keyboard & Mouse Combo
+    4.	4. Logitech MK220 Wireless Combo Keyboard
+    5.	Meetion MT-K841 USB Ultrathin Standard Chocolate Keyboard
+    6.	Meetion MT-K9320 Waterproof Backlit Gaming Keyboard
+    7.	Logitech MK345 Wireless Combo Keyboard
+    8.	Rapoo K800 2.4G Wireless Low-Profile Compact Keyboard
+    9.	Fantech P51 5 In 1 Gaming Combo - Hitam
+    10.	Fantech MK884 Optiluxs RGB Mechanical Keyboard
+
+7. Mouse
+    1.	Golden Field GF-M101 USB Optical Mouse
+    2.	Golden Field GF-M301 RGB LED USB Optical Mouse
+    3.	Golden Field GF-M601W 2.4 GHz Wireless Optical Mouse
+    4.	Logitech G502 HERO High Performance RGB Gaming Mouse
+    5.	Meetion MT-GM22 Dazzling Gaming Mouse
+    6.	Meetion MT-M360 USB Wired Mouse
+    7.	Meetion MT-M362 USB Optical Mouse
+    8.	Microsoft Surface ARC Bluetooth Mouse
+    9.	Targus U575 USB Wired Optical Mouse(Black)
+    10.	Dell Optical Mouse-MS116 Black
+
+8.Camera
+    1.	HOYA 49mm UV Camera Lens Filter
+    2.	K&F Concept Classic MCUV 55mm Blue Coat Filter
+    3.	K&F Concept 3 in 1 Camera Cleaning Kit
+    4.	Digipod TR-452 Tripod
+    5.	GoPro AABAT-001-EU Rechargeable Battery For Hero
+    6.	Yunteng VCT-391 Camera Tripod
+    7.	EKEN H9R 4K Wifi Waterproof Action Camera With Remote Control
+    8.	Godox TT600 Speedlite Master Slave Off GN60 Camera Flash
+    9.	DJI Osmo Pocket Waterproof Case
+    10.	Viltrox EF-EOS M Lens Mount Adapter for Canon Cameras
+
+9.Smart Watch
+    1.	Samsung Galaxy Watch 4 Classic 46mm Smartwatch
+    2.	Xiaomi Amazfit GTR 3 Pro Smartwatch
+    3.	Xiaomi Amazfit GTR 3 Smartwatch
+    4.	Xiaomi Haylou GST LS09B Smart Watch (Global Version)
+    5.	Zeblaze GTS Pro Smart Watch
+    6.	Xiaomi Amazfit GTS 3 Smartwatch
+    7.	OnePlus W101N Smart Band
+    8.	Xiaomi Mibro Color Smart Watch with SPO2 (Global Version)
+    9.	Xiaomi IMILAB KW66 Smart Watch
+    10.	Zeblaze VIBE 6 Smart Watch
+
+
+10.Accesorries
+    1.	Baseus GA03 Level 3 Helmet PUBG Gadget
+    2.	DJI OM 5 3 Axis Stable Gimbal
+    3.	Google Chromecast With Google TV
+    4.	Samsung Galaxy Watch 4 Classic 46mm Smartwatch
+    5.	DJI OM 4 Combo
+    6.	Gudsen MOZA Mini MX 2 3-Axis Foldable Handheld Gimbal Stabilizer
+    7.	DJI OM 4 Handheld 3 Axis Stable Gimbal for Smartphone Vlogging and YouTube Live Video
+    8.	DJI OM 4 SE 3 Axis Stable Gimbal
+    9.	Ugreen Air Vent Mount Phone Holder 
+    10.	Google H2C Nest Mini 2nd Generation Voice Assistant
+    11.Deepcool GH-01 A-RGB Graphics Card Holder
+
+
+order_date 	order_quantity 	order_price order_payment_method 	product_id 	customer_id 	seller_id 	

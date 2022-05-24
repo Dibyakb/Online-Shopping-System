@@ -1,0 +1,145 @@
+Laptop:
+Processor
+Display
+Memory
+Storage
+Graphics
+OS
+Battery
+Adapter
+Audio
+Special Feature
+Keyboard
+Webcam
+Card Reader
+WiFi
+Bluetooth
+USB
+HDMI
+Dimensions
+Weight
+Colour
+Manufacturing Warranty 
+
+
+Desktop:
+Processor
+Motherboard
+RAM
+Graphics Card
+Storage
+Casing
+PSU
+Warranty
+
+
+1. Processor:
+Brand
+Model
+Base Frequency
+Maximum Turbo Frequency
+Cache
+Cores
+Threads
+Default TDP
+cTDP
+Supported Technology
+Maximum Speed (Memory)
+Memory Type
+Manufacturing Warranty
+
+
+2. Graphics Card:
+Type
+Size
+Resolution
+Core Clock
+Memory Clock
+Bus Type
+Stream Processor
+Cuda Core
+Display Port
+HDMI
+Connectors
+Recommended PSU
+Multi-Display
+DirectX
+OpenGL
+Dimensions
+Manufacturing Warranty
+
+
+3. Headphone:
+Dimensions
+Weight
+Colour
+Cable Length
+Driver Magnet
+Frequency Range
+Impedence
+Sensitivity
+System Requirements
+Manufacturing Warranty
+Frequency
+Microphone Size
+Pick-up Pattern
+
+
+4. Keyboard:
+Type
+Wired/Wireless
+Keys
+Cable Length
+Interface
+Others
+Colour 
+Warranty
+
+5. Mouse: 
+Connector
+Dimension
+Others
+Switch Life Cycle
+Weight
+Warranty
+
+
+6. Camera:
+Type
+Pixels
+Aspect Ratio
+Features
+AF Point
+Modes
+Metering Modes
+ISO Sensitivity
+Shutter Speed
+Continuous Shooting
+Image Type
+Movie Type
+Movie Size
+Display Type
+Storage
+Built-in Flash
+Red Eye Reduction
+External Flash Compatibility 
+Batteries
+Dimensions
+Weight
+Lense Mount
+Focal Length
+Maximum Aperture 
+Warranty
+
+7. Smart Watch: 
+Display 
+Battery 
+Connectivity 
+Matterial
+Dimensions
+Weight
+Colour
+Warranty
+
+
+
